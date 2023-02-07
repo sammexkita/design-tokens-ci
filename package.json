@@ -1,0 +1,23 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.2"
+  },
+  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary build ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammexkita/figma-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sammexkita/figma-tokens/issues"
+  },
+  "homepage": "https://github.com/sammexkita/figma-tokens#readme"
+}
